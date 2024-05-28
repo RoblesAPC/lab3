@@ -225,9 +225,9 @@
 
     <div class="heroe">
 
-        <h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+		<h1>Greetings Traveler to Aljohn's CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-        <h2>The small framework with powerful features</h2>
+        <h2>Please have a seat and make youself at home!</h2>
 
     </div>
 
